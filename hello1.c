@@ -6,7 +6,7 @@ int main(){
     printf("Hello world\n");
 
     //blank
-    //blank agai
+    //blank againn
 
     return 0;
 }
